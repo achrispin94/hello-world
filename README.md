@@ -1,4 +1,3 @@
 # hello-world
 
-I like the color blue and red.
-They make me happy.
+<h3>I like the color blue</h3>
