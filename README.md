@@ -1,3 +1,4 @@
 # hello-world
 
-<h3>I like the color blue</h3>
+string1.capitalize=" I like the color blue"
+
